@@ -1,3 +1,5 @@
+#Put your own test cases in paint.in :)
+
 fin = open("paint.in", "r")
 fout = open("paint.out", "w")
 lines = fin.readlines()
