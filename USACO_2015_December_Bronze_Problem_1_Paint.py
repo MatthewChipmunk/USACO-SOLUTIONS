@@ -1,4 +1,5 @@
-#Put your own test cases in paint.in :)
+#Put your own test cases in paint.in :) and see the output in paint.out
+# Problem link: http://www.usaco.org/index.php?page=viewproblem2&cpid=567
 
 fin = open("paint.in", "r")
 fout = open("paint.out", "w")
