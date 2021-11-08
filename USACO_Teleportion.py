@@ -1,3 +1,6 @@
+# Make your own inputs in teleport.in and see the output in teleport.out
+# Problem link: http://www.usaco.org/index.php?page=viewproblem2&cpid=807
+
 num = open("teleport.in", 'r')
 answer = open("teleport.out", "w")
 #__________________________________________
